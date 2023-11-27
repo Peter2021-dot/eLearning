@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    /*margin: 0;
+    padding: 0;*/
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.lesson {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.container1 {
+    display: none;
+    /*padding: 30px;
+    margin: 10px;*/
+    /*position: absolute;
+    left: 30px;*/
+}
+
+.container2 {
+    display: none;
+    /*position: absolute;
+    left: 30px;*/
+}
+
+.container3 {
+    display: none;
+    /*position: absolute;
+    left: 30px;*/
+}
+
+.container4 {
+    display: none;
+    /*position: absolute;
+    left: 30px;*/
+}
+
+.container5 {
+    display: none;
+    /*position: absolute;
+    left: 30px;*/
+}
+
+.container6 {
+    display: none;
+    /*position: absolute;
+    left: 30px;*/
+}
+
+
+.board{
+    width: 100%;
+    height: 100%;
+}
+
+#part1{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+#part2{
+    width: 100%;
+    height: 100%;
+}
+
+#part3{
+    width: 100%;
+    height: 100%;
+}
+
+#part4{
+    width: 100%;
+    height: 100%;
+}
+
+#part5{
+    width: 100%;
+    height: 100%;
+}
